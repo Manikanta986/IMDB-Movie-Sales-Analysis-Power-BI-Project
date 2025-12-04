@@ -26,9 +26,9 @@ The dashboard provides a comprehensive view of how factors like genre, ratings, 
 
 | File / Folder | Description |
 |----------------|-------------|
-| `dashboard/Movie Sales Analysis.pbix` | Power BI project file |
-| `[data/IMDB-Movie-Data.csv]` | Dataset used in the dashboard |
-| `[reports/Movie Sales Analysis - Pdf.pdf]` | Exported Power BI report |
+| `Dashboard/IMDB_Movie_Analysis.pbix` | Power BI project file |
+| `[data/IMDB-Movie-Data.csv]` | Dataset used in the Dashboard |
+| `[reports/Movie Sales Analysis - Pdf.pdf]` | ScreenShorts of Dashboard |
 | `[README.md]` | Documentation file |
 
 ---
