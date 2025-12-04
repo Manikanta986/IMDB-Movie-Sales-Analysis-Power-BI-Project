@@ -28,7 +28,7 @@ The dashboard provides a comprehensive view of how factors like genre, ratings, 
 |----------------|-------------|
 | `Dashboard/IMDB_Movie_Analysis.pbix` | Power BI project file |
 | `[data/IMDB-Movie-Data.csv]` | Dataset used in the Dashboard |
-| `[reports/Movie Sales Analysis - Pdf.pdf]` | ScreenShorts of Dashboard |
+| `[Screenshort/IMDB_ScreenShorts]` | ScreenShorts of Dashboard |
 | `[README.md]` | Documentation file |
 
 ---
@@ -62,10 +62,9 @@ The dashboard provides a comprehensive view of how factors like genre, ratings, 
 
 | Page | Preview |
 |------|---------|
-| Dashboard | ![Dashboard](IMDB_ScreenShorts/Power_BIsg) |
-| Product Insights | ![Product](screenshots/project_insights.png) |
-| Sales & Trends | ![Trends](screenshots/sales_trends.png) |
-| Profits & Teams | ![Teams](screenshots/profits_teams.png) |
+| Dashboard | ![Dashboard](IMDB_ScreenShorts/Power_BIslide1.png) |
+| Genre Based | ![Genre Based](IMDB_ScreenShorts/Power_BIslide2.jpeg) |
+| Movie Revenue| ![Movie Revenue](IMDB_ScreenShorts/Power_BIslide3.jpeg) |
 
 ---
 
@@ -86,6 +85,16 @@ The dashboard provides a comprehensive view of how factors like genre, ratings, 
 4. Explore the interactive dashboard and insights.
 
 ---
+
+## 🧠 Learnings & Highlights
+
+- Created a full business-friendly navigation layout with custom buttons
+- Built over 20+ visuals including KPIs, bar charts, maps, and tables
+- Enhanced storytelling with interactivity, conditional formatting, and color-coded KPIs
+- Applied real-world best practices in dashboard design and layout
+
+---
+
 
 ## 🧾 Project Details
 
