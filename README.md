@@ -35,7 +35,7 @@ The dashboard provides a comprehensive view of how factors like genre, ratings, 
 
 ## 🧠 Insights & Findings
 
-- 📅 2012 recorded the highest number of movie releases, showing a peak in production during the period.
+- 📅 2016 recorded the highest number of movie releases, showing a peak in production during the period.
 - 🎭 Action and Drama emerged as the top revenue-generating genres, also receiving the highest total votes from audiences.
 - 🎬 J.J. Abrams, David Yates, and Christopher Nolan stand out as the highest-earning directors based on total box office revenue.
 - 💰 Movies with higher IMDb ratings, metascores, and vote counts consistently show stronger revenue performance, indicating a clear positive correlation.
@@ -62,7 +62,7 @@ The dashboard provides a comprehensive view of how factors like genre, ratings, 
 
 | Page | Preview |
 |------|---------|
-| Dashboard | ![Dashboard](screenshots/dashboard.png) |
+| Dashboard | ![Dashboard](IMDB_ScreenShorts/Power_BIsg) |
 | Product Insights | ![Product](screenshots/project_insights.png) |
 | Sales & Trends | ![Trends](screenshots/sales_trends.png) |
 | Profits & Teams | ![Teams](screenshots/profits_teams.png) |
