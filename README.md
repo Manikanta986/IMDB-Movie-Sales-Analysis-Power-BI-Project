@@ -89,7 +89,7 @@ The dashboard provides a comprehensive view of how factors like genre, ratings, 
 ## 🧠 Learnings & Highlights
 
 - Created a full business-friendly navigation layout with custom buttons
-- Built over 20+ visuals including KPIs, bar charts, maps, and tables
+- Built over 20+ visuals including KPIs, bar charts, and tables
 - Enhanced storytelling with interactivity, conditional formatting, and color-coded KPIs
 - Applied real-world best practices in dashboard design and layout
 
